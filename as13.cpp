@@ -1,0 +1,1 @@
+/*Write a C++ program illustrating the use of Abstract class & Pure virtual functions in class*/
